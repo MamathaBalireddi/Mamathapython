@@ -1,0 +1,7 @@
+n=int(input())
+while(n>9):
+    c
+ n=sumofnumber(n)
+if n==1 or n==7:
+else:
+    print('not a happy number')
